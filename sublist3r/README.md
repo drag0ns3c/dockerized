@@ -12,4 +12,4 @@ Output to Stdout.
 
 Write results to file
 
-    docker run --rm -it -v $(pwd):/data drag0ns3c/sublist3r -d bbc.co.uk -t 4 -o /data/results.txt
+    docker run --rm -it -v $(pwd):/data drag0ns3c/sublist3r -d example.com -t 4 -o /data/results.txt
