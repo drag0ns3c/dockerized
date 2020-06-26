@@ -6,5 +6,6 @@ All images are hosted on [Docker Hub](https://hub.docker.com/u/drag0ns3c).
 ## Tools
 
 - [Dirsearch](./dirsearch)
+- [Hydra](./hydra)
 - [Sublist3r](./sublist3r)
 - [Webdav](./webdav)
